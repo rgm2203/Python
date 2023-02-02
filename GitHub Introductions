@@ -1,0 +1,6 @@
+Name = (input("Hello there! What is your name? "))
+Well = (input("And has your day been well? ")
+if Well = "Yes":
+    print("Glad to hear it ", Name")
+else:
+    print("Sorry to hear that ", Name, "Let's do what we can to help each other.")
